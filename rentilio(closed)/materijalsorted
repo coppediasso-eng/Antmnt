@@ -132,7 +132,7 @@ grbz 17 okl
 grbz 17 okl
 grbz 7 okl
 grbz 8 okl
-kut okl antlsc,
+kut 8 okl 
 lmp 15 okl
 lmp 3 okl
 lmp 35 simskl,antprk
@@ -142,3 +142,22 @@ ntb 30 okl
 ntb 6 kopanje
 plcx3hgr 1 antlsc
 relx3 2 antlsc
+
+
+kut 1 stb
+kut 1 stb
+lmp 2 stb
+lmp 2 stb
+lmp 3 stb
+m2k 4 stb
+m2m 6 stb
+m2n 3 stb
+m2n 5 stb
+m4m 1 stb
+noark 1 stb
+pnk 6 stb
+tpk 2 stb
+tpkx2 3 stb
+uu 2 stb
+uu 2 stb
+~б 2 stb
