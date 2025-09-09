@@ -1,6 +1,3 @@
-ploce,
-gips, 
-udarne (uzeli klimasi), 
-guma prozirna za wasser vagu
+ok, nista od gume prozirne za wasser vagu
 
 
