@@ -1,5 +1,5 @@
-Za Šimu inga da me ne jebe s porukama.
 ploce,
+udarne (uzeli klimasi), 
 guma prozirna za wasser vagu
 
 
