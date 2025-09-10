@@ -1,3 +1,1 @@
-ok, nista od gume prozirne za wasser vagu
-
-
+¯\_(ツ)_/¯
