@@ -1,6 +1,3 @@
-vrice za smece ako more, 
-udarne, 
-fangle, 
-vide, 
-tiple 6, 
-
+fi60 za knauf,  
+kutije za podno grijanje (kockaste), 
+m7k ako nema u skladistu
