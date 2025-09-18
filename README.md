@@ -1,3 +1,3 @@
-fi60 za knauf,  
-kutije za podno grijanje (kockaste), 
-m7k ako nema u skladistu
+zice (crna, smedja, crvena)x1, 
+zice (zuta, plava)x1, 
+lubrikant gel (plavi), 
