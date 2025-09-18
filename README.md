@@ -1,3 +1,3 @@
 zice (zuta, plava)x1, 
-lubrikant gel (plavi, za ljudsku uporabu), 
+lubrikant gel,  
 kockaste kutije za simu (podno), 
