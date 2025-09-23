@@ -1,0 +1,36 @@
+3x1.5 222 s1.0kat
+3x2.5 233 s1.0kat
+4x0.75 40 s1.0kat
+5x1.5 10 s1.0kat
+5x2.5 18 s1.0kat
+coax 27 s1.0kat
+fi20 36 s1.0kat
+fi25 24 s1.0kat
+utp 110 s1.0kat
+
+
+1x2.5x3 45 s4.1kat
+1x2.5x6 12 s4.1kat
+3x1.5 224 s4.1kat
+3x2.5 256 s4.1kat
+4x0.75 18 s4.1kat
+5x1.5 30 s4.1kat
+coax 19 s4.1kat
+utp 36 s4.1kat
+
+
+1x2.5x3 53 s6.2kat
+1x2.5x6 22 s6.2kat
+1x2.5x9 13 s6.2kat
+3x1.5 250 s6.2kat
+3x2.5 173 s6.2kat
+4x0.75 18 s6.2kat
+5x1.5 21.5 s6.2kat
+coax 47 s6.2kat
+fi20 14 s6.2kat
+fi25 2 s6.2kat
+utp 56 s6.2kat
+
+
+fi20 111 okl.fsd
+grbz 111 okl.fsd
