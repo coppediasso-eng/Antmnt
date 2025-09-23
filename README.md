@@ -1,7 +1,2 @@
-m7k 20, 
-pur pjena, 
-vezice, 
-noza za skalpel, 
-gips ako nema, 
-
+kabel 5x2.5 za taracu ako oce da se zavrsi
 

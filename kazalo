@@ -7,19 +7,19 @@ rawdata			zapis kronološki
 
 
 
-~б
-÷б
-бб
-×б
-•б
-бб20a
-ббsina
-uu
-uugvs
-uulgr
-m2k
-m2m
-m2n
+бб			prekidač prekidač (obični)
+~б			izmjenični prekidač
+×б			križni prekidač
+÷б			roleta prekidač
+•б			tipkalo prekidač
+бб20a			prekidač 20 ampera
+ббsina			prekidač za šinu
+uu			utičnica
+uugvs			utičnica gewis
+uulgr			utičnica legrand
+m2k			modul 2 kutija
+m2m			modul 2 maska
+m2n			modul 2 nosač
 m4k
 m4m
 m4mgvs
@@ -27,20 +27,20 @@ m4n
 m7k
 m7m
 m7n
-plcnrk
-plcx3
-plcx3hgr
-plcx4
-pnk
-rel
-relx3
+plcnrk			ploča noark
+plcx3			ploča troredna
+plcx3hgr		ploča hager troredna
+plcx4			ploča četveroredna
+pnk			panika
+rel			relej
+relx3			relej trofazni
 rj45
-sbrx3
-slp
-snzr
-stbatm
-tpk
-tpkx2
+sbrx3			sabirnica troredna
+slp			slipac
+snzr			senzor
+stbatm			stubisni automat
+tpk			tipka
+tpkx2			tipka dupla
 1x2.5x12
 1x2.5x2
 1x2.5x3
@@ -55,11 +55,10 @@ tpkx2
 5x10
 5x2.5
 5x2.5pp00
-antmkl
 b10
 b16
 b20
-brojx3
+brojx3			brojilo trofazno
 c10
 c20
 c25
@@ -70,29 +69,26 @@ c40
 c40x3
 c63x3
 coax
-fi20
-fi25
-fi32
-fid40x3
+fi20			cijev fi20
+fi25			cijev fi25
+fi32			cijev fi32
+fid40x3			fidovka 40 ampera trofazna
 fidx3
-frl
-grb
-grbz
-indk
-isk
-it
-kmr
+frl			forel
+grb			gromobran
+grbz			gromobran žica
+indk			indikator
+isk			isklop
+it			it ormar
+kmr			kamera
 kpmo
-ktd
-kuh
-kut
-kutpdn
-lmp
-noark
-ntb
-okd
-opt
-ulje
+ktd			katodni
+kut			kutija razvodna
+kutpdn			kutija razvodna podna
+lmp			lampa
+ntb			novotub
+okd			okidač (za vatrodojavu)
+opt			optika
 utp
-uvd
-vent
+uvd			uvodnica
+vent			ventilator
