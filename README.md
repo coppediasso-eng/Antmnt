@@ -1,2 +1,1 @@
-kabel 5x2.5 za taracu ako oce da se zavrsi
-
+5x2.5 50 metara5x2.5 50 metara5x2.5 50 metara5x2.5 50 metara5x2.5 50 metara
