@@ -4,4 +4,5 @@ opt 17m,
 opt 25m, 
 opt 27m, 
 opt 22m, 
-opt 25m, 
+opt 25m,  
+ukupno 164
