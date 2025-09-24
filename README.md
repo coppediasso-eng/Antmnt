@@ -1,2 +1,7 @@
-5x2.5 50 m
-15 21 11 18 20 15 18
+opt 21m, 
+opt 27m, 
+opt 17m, 
+opt 25m, 
+opt 27m, 
+opt 22m, 
+opt 25m, 
