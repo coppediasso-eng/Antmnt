@@ -1,8 +1,3 @@
-opt 21m, 
-opt 27m, 
-opt 17m, 
-opt 25m, 
-opt 27m, 
-opt 22m, 
-opt 25m,  
-ukupno 164
+3x2.5, 
+kutija za antene (da stane 17 antena), 
+
