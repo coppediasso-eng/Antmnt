@@ -520,7 +520,7 @@ Tue 23/09/25 10:22 fi25 1.5 s6.2kat sbk
 Tue 23/09/25 14:01 3x2.5 70 s6.2kat sbk
 Wed 24/09/25 06:43 coax 200 ++ antlsc sbk
 Wed 24/09/25 06:45 pf10 500 ++ antlsc sbk
-Wed 24/09/25 06:45 5x2.5 50 ++ antlsc sbk
+Wed 24/09/25 06:45 5x2.5pp00 50 ++ antlsc sbk
 Wed 24/09/25 08:25 pf10x5 17 s6.stb sbk
 Wed 24/09/25 08:25 pf10x5 17 s7.stb sbk
 Wed 24/09/25 09:04 pf10x5 14.5 s4.stb sbk
@@ -565,3 +565,10 @@ Thu 25/09/25 12:37 coax 20 s6.stb sbk
 Thu 25/09/25 12:37 utp 20 s6.stb sbk
 Thu 25/09/25 12:37 opt 26 s6.stb sbk
 Thu 25/09/25 12:56 coax 20 stb.stb sbk
+Thu 25/09/25 13:52 3x1.5 20 tv.stb sbk
+Thu 25/09/25 13:52 pf10 20 tv.stb sbk
+Thu 25/09/25 14:36 3x1.5 4 stb.stb sbk
+Thu 02/10/25 07:02 3x1.5 200 ++ antlsc lcm sbk
+Thu 02/10/25 07:02 coax 300 ++ antlsc lcm sbk
+Thu 02/10/25 08:30 coax 162.5 tv.stb sbk
+Thu 02/10/25 12:47 utp 50 s3.0kat sbk
