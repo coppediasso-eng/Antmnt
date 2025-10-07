@@ -34,61 +34,19 @@ fi25 3.5 s6.2kat
 fi32 1.5 s6.2kat
 utp 56 s6.2kat
 
-3x2.5 30 s6.krov
-5x2.5pp00 20 s6.krov
+3x2.5 60 .krov
+5x2.5pp00 40 .krov
+coax 182 tv.krov
 
-3x2.5 30 s7.krov
-5x2.5pp00 20 s7.krov
-
-
-coax 47 s1.stb
-opt 21 s1.stb
-pf10x5 12 s1.stb
-utp 13 s1.stb
-
-coax 36 s2.stb
-opt 17 s2.stb
-pf10x5 12 s2.stb
-utp 13 s2.stb
-
-coax 41 s3.stb
-opt 27 s3.stb
-pf10x5 11 s3.stb
-utp 20 s3.stb
-
-coax 16 s4.stb
-opt 22 s4.stb
-pf10x5 14.5 s4.stb
-utp 16 s4.stb
-
-coax 15 s5.stb
-opt 25 s5.stb
-pf10x5 14.5 s5.stb
-utp 15 s5.stb
-
-coax 44 s6.stb
-opt 26 s6.stb
-pf10x5 17 s6.stb
-utp 20 s6.stb
-
-coax 43 s7.stb
-opt 27 s7.stb
-pf10x5 17 s7.stb
-utp 19 s7.stb
-
-3x1.5 20 tv.stb
-coax 169.5 tv.stb
-pf10 20 tv.stb
-
-3x1.5 117 stb.stb
+3x1.5 137 stb.stb
 3x2.5 25 stb.stb
 5x1.5 12 stb.stb
-coax 114 stb.stb
+coax 525.5 .stb
 fi25 30 stb.stb
 fi32 6 stb.stb
 ntb 7 stb.stb
-pf10 9 stb.stb
-utp 26 stb.stb
-
-pf10x3 21 zp.stb
-coax 182 tv.krov
+opt 165 .stb
+pf10x1 29 stb.stb
+pf10x3 21 .stb
+pf10x5 98 .stb
+utp 142 stb.stb
