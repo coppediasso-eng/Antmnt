@@ -1,1 +1,9 @@
-¯\\\_(ツ)\_/¯
+izolir, 
+vezice, 
+sajla 10m, 
+udarne, 
+utp, 
+3x2.5, 
+3x1.5, 
+fi20, 
+fi25, 
