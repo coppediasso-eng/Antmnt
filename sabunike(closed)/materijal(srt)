@@ -114,8 +114,8 @@ opt 25 s5.stb sbk
 opt 26 s6.stb sbk
 opt 27 s3.stb sbk
 opt 27 s7.stb sbk
-pf10 20 tv.stb sbk
-pf10 9 stb.stb sbk antant
+pf10x1 20 tv.stb sbk
+pf10x1 9 stb.stb sbk antant
 pf10x3 21 zp.stb sbk antant
 pf10x5 11 s3.stb sbk
 pf10x5 12 s1.stb sbk
