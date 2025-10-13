@@ -1,5 +1,2 @@
-coax, 
 poklopce za kutije sve, 
-perfe, 
-pur pjena, 
 metla siroka za ivana, 
