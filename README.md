@@ -1,9 +1,2 @@
-ploca trorednax2, 
-ploca multimedija, 
-5x10 kabel 18m, 
-optika 20m ako ide,
 novotub iz skladista, 
-metar od 8m, 
-3x1.5pp00 za vanjsku rasvjetu, 
-4x0.75, 
-
+ja san izmirija 50m za bazen pa ti vidi koliko ces uzimati, ako mores sto pa vratiti da ne ostaje viska.
