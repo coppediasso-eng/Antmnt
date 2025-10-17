@@ -612,7 +612,7 @@ Thu 09/10/25 06:40 3x1.5 200 ++ ing ptr
 Thu 09/10/25 07:25 coax 100 ++ ing ptr
 Thu 09/10/25 14:35 coax 19 prz ptr
 Thu 09/10/25 14:35 utp 53 prz ptr
-Fri 10/10/25 07:41 pf10x5 100 antlsc lcm ptr
+Fri 10/10/25 07:41 pf10x5 100 ++ antlsc lcm ptr
 Fri 10/10/25 09:35 pf10x5 19 prz ptr
 Fri 10/10/25 13:45 3x2.5 100 prz ptr
 Fri 10/10/25 13:45 3x1.5 100 prz ptr
@@ -646,3 +646,9 @@ Wed 15/10/25 14:31 fi25 7 kat ptr
 Wed 15/10/25 14:31 ntb 7 kat ptr
 Wed 15/10/25 14:31 fi16 30 kat ptr
 Wed 15/10/25 14:31 4x0.75 45 kat ptr
+Thu 16/10/25 15:36 ulje 100.6 min
+Fri 17/10/25 09:44 3x2.5 70 kat ptr
+Fri 17/10/25 09:44 3x1.5 89 kat ptr
+Fri 17/10/25 09:44 3x1.5 100 -- ptr kmb
+Fri 17/10/25 09:44 plcx4 1 ++ antlsc lcm sbk
+Fri 17/10/25 09:52 plcx3 1 kat ptr
