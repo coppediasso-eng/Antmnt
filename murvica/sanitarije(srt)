@@ -18,11 +18,11 @@ fid 2 s3 mrv snt
 fid 2 s4 mrv snt
 fid40 2 s1 mrv snt
 fid40 2 s2 mrv snt
-grbk 7 krov mrv
-grbl 8 krov mrv
-grbs 115 krov mrv
-grbz 100 krov mrv
-grb× 16 krov mrv
+grbk 7 krov mrv snt
+grbl 8 krov mrv snt snt
+grbs 115 krov mrv snt
+grbz 100 krov mrv snt
+grb× 16 krov mrv snt
 ktd 2 s1 mrv snt
 ktd 2 s2 mrv snt
 ktd 2 s3 mrv snt
