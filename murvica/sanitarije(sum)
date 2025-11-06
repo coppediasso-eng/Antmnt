@@ -1,31 +1,31 @@
-b10 22 s4
-b16 48 s4
-b20 4 s4
-b40 4 s4
-fid 8 s4
-fid40 4 s1
-grbk 7 krov
-grbl 8 krov
-grbs 115 krov
-grbz 100 krov
-grb× 16 krov
-ktd 8 s4
-m2k 102 s1
-m2m 58 s1
-m2n 80 s1
-m3k 5 s1
-m3m 5 s1
-m3n 5 s1
-m4k 22 s1
-m4m 22 s1
-m4n 22 s1
-m7k 38 s1
-m7m 38 s1
-m7n 38 s1
-rj45 17 s1
-sat 13 s1
-uu 175 s1
-uugvs 1 s3
-zvc 4 s1
-~б 74 s1
-×б 5 s1
+b10 22
+b16 48
+b20 4
+b40 4
+fid 8
+fid40 4
+grbk 7
+grbl 8
+grbs 115
+grbz 100
+grb× 16
+ktd 8
+m2k 102
+m2m 58
+m2n 80
+m3k 5
+m3m 5
+m3n 5
+m4k 22
+m4m 22
+m4n 22
+m7k 38
+m7m 38
+m7n 38
+rj45 17
+sat 13
+uu 175
+uugvs 1
+zvc 4
+~б 74
+×б 5
