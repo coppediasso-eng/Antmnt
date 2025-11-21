@@ -1,2 +1,1 @@
-puzici za knauf, 
-
+¯\\_(ツ)\_/¯
