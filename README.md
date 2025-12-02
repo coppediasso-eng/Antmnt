@@ -1,4 +1,4 @@
-coax, 
-m7k, 
-5x10 14m dovod, 
-ploce 3 reda, 
+vezice, 
+cijevi sve ako nema u skladistu, 
+vricr bile za smece, 
+i nesto po tvon izboru, iznenadi nas.
