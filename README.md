@@ -1,8 +1,8 @@
 brusevi za brusilicu, 
 cijevi ф16, 
 francesco: 
-m2 maske 16, 
-m2 nosac 16, 
+m2 maske 32, 
+m2 nosac 32, 
 uticnice 42, 
 prekidaci 30, 
 m4 nosaci 6, 
