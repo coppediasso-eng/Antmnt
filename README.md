@@ -1,16 +1,1 @@
-brusevi za brusilicu, 
-cijevi ф16, 
-francesco: 
-m2 maske 32, 
-m2 nosac 32, 
-uticnice 42, 
-prekidaci 30, 
-m4 nosaci 6, 
-m4 maske 6, 
-m3 maske 3, 
-m3 nosaci 3, 
-m7 nosaci 7, 
-m7 maske 7, 
-rj45 5, 
-antene 4, 
-krizni 2,
+¯\\_(ツ)\_/¯
