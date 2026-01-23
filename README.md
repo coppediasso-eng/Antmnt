@@ -1,1 +1,3 @@
-¯\\_(ツ)\_/¯
+ pur pjena, 
+ nekoliko markera, 
+
