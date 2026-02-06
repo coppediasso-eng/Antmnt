@@ -1,6 +1,7 @@
-alat za australca, 
-grla, zarulje za sabunike, 
-indikatori za zahode, 
-prekidaci 16a za bojlere, 
-traka gromobranska, 
-termostate za podna, 
+grla zarulje za sabunike, 
+2 zvonca za plocu, 
+3 fidovke, 
+tuljci 10^2 bili, 
+vezice, 
+
+
