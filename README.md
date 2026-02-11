@@ -1,4 +1,4 @@
-vrice bile za smece, 
-izolir, 
+2 katodna za zp, 
+stubisni automat, 
 
 
