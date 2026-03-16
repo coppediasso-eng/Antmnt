@@ -8,10 +8,20 @@ fi25 12 kat
 pf10x5 7 kat
 utp 51 kat
 
+extra
+
+3x1.5 85 xtr
+
+okl
+
+5x6 40 okl
+grbz 14 okl
+
 prizemlje
 
 3x1.5 266 prz
 3x2.5 317 prz
+3x4 15 prz
 5x1.5 8 prz
 f32 14 prz
 fi20 10 prz
@@ -19,7 +29,3 @@ fi25 25 prz
 fi32 12 prz
 pf10 2 prz
 utp 66 prz
-
-extra
-
-3x1.5 85 xtr
