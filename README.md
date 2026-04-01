@@ -1,1 +1,4 @@
-¯\\_(ツ)\_/¯
+2 kutije za optiku stubiste bucko, 
+tk ormaric bucko, 
+rukavice, 
+
