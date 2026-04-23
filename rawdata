@@ -1066,7 +1066,7 @@ Mon 20/04/26 07:39 3x1.5 32 ++ antatn babvrs
 Mon 20/04/26 07:39 3x2.5 63 ++ antatn babvrs
 Mon 20/04/26 09:28 pf10x3 6.5 s1.0kat babvrs
 Mon 20/04/26 11:29 3x2.5 35 s2.0kat babvrs
-Mon 20/04/26 11:45 pf10 24 s2.0kat babvrs
+Mon 20/04/26 11:45 pf10x3 8 s2.0kat babvrs
 Mon 20/04/26 14:04 coax 100 babvrs
 Tue 21/04/26 06:34 coax 200 ++ antlsc babvrs
 Tue 21/04/26 06:34 opt 85 ++ antlsc babvrs
@@ -1074,3 +1074,13 @@ Tue 21/04/26 09:31 utp 200 babvrs
 Tue 21/04/26 10:01 coax 100 babvrs
 Tue 21/04/26 10:10 coax 100 babvrs
 Tue 21/04/26 10:23 coax 100 babvrs
+Wed 22/04/26 09:20 3x2.5 63 s1.1kat babvrs
+Wed 22/04/26 09:20 3x2.5 32 s1.1kat babvrs
+Wed 22/04/26 09:36 3x1.5 146 s1.1kat babvrs
+Wed 22/04/26 10:06 pf10x3 6 s1.1kat babvrs
+Wed 22/04/26 10:06 pf10x3 6 s2.1kat babvrs
+Wed 22/04/26 10:06 pf10x3 7 s4.1kat babvrs
+Wed 22/04/26 10:06 pf10x3 7 s3.1kat babvrs
+Wed 22/04/26 14:20 fi32 100 babvrs
+Wed 22/04/26 14:20 fi20 100 babvrs
+Wed 22/04/26 14:20 fi25 100 babvrs
