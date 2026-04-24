@@ -1,3 +1,2 @@
-perfe, 
-udarne, 
+izolir, 
 
