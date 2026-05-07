@@ -1015,7 +1015,7 @@ Tue 24/03/26 12:48 3x2.5 100 s1.0kat
 Tue 24/03/26 13:49 3x2.5 100 s2.1kat bck
 Tue 24/03/26 15:53 ulje 0 max
 Wed 25/03/26 07:55 5x0.75 100 s1.0kat bck
-Wed 25/03/26 08:08 5x0.75 ++ 100 bck bck
+Wed 25/03/26 08:08 5x0.75 100 ++ 100 bck bck
 Wed 25/03/26 08:24 3x1.5 100 s2.1kat bck
 Wed 25/03/26 10:49 5x0.75 75 s2.1kat bck
 Thu 26/03/26 12:08 3x2.5 36 prz glv xtr
@@ -1121,8 +1121,20 @@ Mon 04/05/26 12:07 3x2.5 100 s2.1kat bck2
 Mon 04/05/26 12:53 3x2.5 200 ++ bck bck2
 Mon 04/05/26 12:53 3x1.5 200 ++ bck bck2
 Mon 04/05/26 13:01 ulje 154 min-
-Tue 05/05/26 10:19 3x1.5 15 45 babvrs
+Tue 05/05/26 10:19 3x1.5 45 babvrs
 Tue 05/05/26 10:20 3x1.5 100 ++ ing kmb
 Tue 05/05/26 10:20 3x2.5 100 ++ ing kmb
 Tue 05/05/26 11:42 3x1.5 100 ++ kmb babvrs
 Tue 05/05/26 12:30 3x1.5 45 ++ kmb babvrs
+Wed 06/05/26 11:26 3x2.5 12 babvrs
+Wed 06/05/26 11:26 3x1.5 40 babvrs
+Wed 06/05/26 11:26 3x1.5 60 -- babvrs kmb
+Wed 06/05/26 11:26 3x2.5 7 -- babvrs kmb
+Wed 06/05/26 11:26 utp 40 babvrs
+Wed 06/05/26 11:26 4x0.75 40 babvrs
+Wed 06/05/26 11:36 ntb50 35 babvrs
+Wed 06/05/26 11:36 fi32 25 babvrs
+Wed 06/05/26 11:36 fi20 5 babvrs
+Wed 06/05/26 11:36 3x1.5 3 babvrs
+Wed 06/05/26 11:36 3x1.5 -- 60 babvrs kmb
+Thu 07/05/26 11:20 5x0.75 100 s2.1kat bck2
