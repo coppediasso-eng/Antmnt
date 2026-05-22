@@ -1108,7 +1108,7 @@ Tue 28/04/26 09:03 fi20 50 ++ bck bck2
 Tue 28/04/26 09:03 fi25 50 ++ bck bck2
 Tue 28/04/26 09:39 5x2.5 6 s4.2kat bck2
 Tue 28/04/26 09:39 5x2.5 6 s3.2kat bck2
-Tue 28/04/26 09:43 1x2.5x3 7 s3.2kat bck2
+Tue 28/04/26 09:43 1x2.5x3 7 kmb s3.2kat bck2
 Tue 28/04/26 09:46 3x2.5 200 ++ bck bck2
 Tue 28/04/26 09:46 3x1.5 200 ++ bck bck2
 Wed 29/04/26 10:52 100w 24v makedonac 10l 5w
@@ -1149,7 +1149,7 @@ Tue 12/05/26 12:20 3x1.5 200 ++ bck bck2
 Tue 12/05/26 13:16 utp 305 bck2 bck2
 Wed 13/05/26 06:38 3x2.5 100 -- kmb antatn
 Wed 13/05/26 08:23 3x2.5 100 s1.0kat bck2
-Wed 13/05/26 09:13 1x2.5x3 4.5 s1.0kat bck2
+Wed 13/05/26 09:13 1x2.5x3 4.5 kmb s1.0kat bck2
 Wed 13/05/26 10:33 3x1.5 100 s1.0kat bck2
 Wed 13/05/26 13:55 pf10 69 ++ bck bck2
 Wed 13/05/26 13:55 pf10 29 ++ bck bck2
@@ -1163,9 +1163,15 @@ Fri 15/05/26 08:34 5x10 20 okl ptr
 Fri 15/05/26 15:38 ulje 160 0
 Tue 19/05/26 08:41 pf10 2 okl babvrs
 Tue 19/05/26 08:43 grbz 10 okl babvrs
-Tue 19/05/26 12:59 pf10 15 s2.1kat bck2
+Tue 19/05/26 12:59 pf10 15 kmb s2.1kat bck2
 Tue 19/05/26 12:59 ntb50 8 okl babvrs
 Tue 19/05/26 14:13 3x1.5 100 stb bck2
 Tue 19/05/26 14:38 coax 100 s1.0kat bck2
 Wed 20/05/26 09:42 coax 100 stb bck2
 Wed 20/05/26 14:26 3x1.5 100 stb bck2
+Thu 21/05/26 08:41 1x2.5x2 kmb 11 stb bck2
+Fri 22/05/26 10:30 3x2.5 100 s1.0kat bck2
+Fri 22/05/26 12:34 3x1.5 100 ++ bck bck2
+Fri 22/05/26 12:34 3x2.5 100 ++ bck bck2
+Fri 22/05/26 12:34 3x1.5 100 s1.0kat bck2
+Fri 22/05/26 13:49 coax 30 s1.0kat bck2
