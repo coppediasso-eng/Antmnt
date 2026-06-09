@@ -598,60 +598,60 @@ Tue 07/10/25 06:42 3x1.5 100 -- sbk skld
 Tue 07/10/25 06:42 3x1.5 100 -- sbk kmb
 Tue 07/10/25 06:42 3x2.5 100 -- sbk kmb
 Tue 07/10/25 13:50 3x1.5 10 grg
-Wed 08/10/25 06:41 3x1.5 200 ++ antlsc ptr
-Wed 08/10/25 06:41 3x2.5 200 ++ antlsc ptr
-Wed 08/10/25 11:36 3x1.5 100 prz ptr
-Wed 08/10/25 11:37 5x15 15 prz ptr
-Wed 08/10/25 13:14 3x2.5 100 prz ptr
-Wed 08/10/25 13:32 1x2.5x3 7 prz ptr
-Wed 08/10/25 14:07 utp 7 prz ptr
-Wed 08/10/25 14:41 3x2.5 10 prz ptr
+Wed 08/10/25 06:41 3x1.5 200 ++ antlsc jsm ptr
+Wed 08/10/25 06:41 3x2.5 200 ++ antlsc jsm ptr
+Wed 08/10/25 11:36 3x1.5 100 prz jsm ptr
+Wed 08/10/25 11:37 5x15 15 prz jsm ptr
+Wed 08/10/25 13:14 3x2.5 100 prz jsm ptr
+Wed 08/10/25 13:32 1x2.5x3 7 prz jsm ptr
+Wed 08/10/25 14:07 utp 7 prz jsm ptr
+Wed 08/10/25 14:41 3x2.5 10 prz jsm ptr
 Wed 08/10/25 15:34 ulje 140 min
-Thu 09/10/25 06:40 3x2.5 200 ++ ing ptr
-Thu 09/10/25 06:40 3x1.5 200 ++ ing ptr
-Thu 09/10/25 07:25 coax 100 ++ ing ptr
-Thu 09/10/25 14:35 coax 19 prz ptr
-Thu 09/10/25 14:35 utp 53 prz ptr
-Fri 10/10/25 07:41 pf10x5 100 ++ antlsc lcm ptr
-Fri 10/10/25 09:35 pf10x5 19 prz ptr
-Fri 10/10/25 13:45 3x2.5 100 prz ptr
-Fri 10/10/25 13:45 3x1.5 100 prz ptr
-Fri 10/10/25 14:15 coax 12 kat ptr
-Fri 10/10/25 14:15 utp 12 kat ptr
-Mon 13/10/25 08:19 coax 216 kat ptr
-Mon 13/10/25 08:37 coax 73 kat ptr
-Mon 13/10/25 08:37 utp 35 kat ptr
-Mon 13/10/25 09:38 5x2.5 17 prz ptr
-Mon 13/10/25 12:16 1x2.5x3 13 kat ptr
-Mon 13/10/25 13:52 3x2.5 100 kat ptr
-Mon 13/10/25 14:31 3x1.5 100 kat ptr
-Tue 14/10/25 06:35 coax 100 ++ antlsc lcm ptr
-Tue 14/10/25 06:35 3x1.5 100 ++ ing ptr
-Tue 14/10/25 06:35 3x2.5 100 ++ ing ptr
-Tue 14/10/25 08:14 utp 22 okl ptr
-Tue 14/10/25 08:14 coax 22 okl ptr
-Tue 14/10/25 08:32 3x2.5 100 kat ptr
-Tue 14/10/25 08:32 utp 44 okl ptr
+Thu 09/10/25 06:40 3x2.5 200 ++ ing jsm ptr
+Thu 09/10/25 06:40 3x1.5 200 ++ ing jsm ptr
+Thu 09/10/25 07:25 coax 100 ++ ing jsm ptr
+Thu 09/10/25 14:35 coax 19 prz jsm ptr
+Thu 09/10/25 14:35 utp 53 prz jsm ptr
+Fri 10/10/25 07:41 pf10x5 100 ++ antlsc lcm jsm ptr
+Fri 10/10/25 09:35 pf10x5 19 prz jsm ptr
+Fri 10/10/25 13:45 3x2.5 100 prz jsm ptr
+Fri 10/10/25 13:45 3x1.5 100 prz jsm ptr
+Fri 10/10/25 14:15 coax 12 kat jsm ptr
+Fri 10/10/25 14:15 utp 12 kat jsm ptr
+Mon 13/10/25 08:19 coax 216 kat jsm ptr
+Mon 13/10/25 08:37 coax 73 kat jsm ptr
+Mon 13/10/25 08:37 utp 35 kat jsm ptr
+Mon 13/10/25 09:38 5x2.5 17 prz jsm ptr
+Mon 13/10/25 12:16 1x2.5x3 13 kat jsm ptr
+Mon 13/10/25 13:52 3x2.5 100 kat jsm ptr
+Mon 13/10/25 14:31 3x1.5 100 kat jsm ptr
+Tue 14/10/25 06:35 coax 100 ++ antlsc lcm jsm ptr
+Tue 14/10/25 06:35 3x1.5 100 ++ ing jsm ptr
+Tue 14/10/25 06:35 3x2.5 100 ++ ing jsm ptr
+Tue 14/10/25 08:14 utp 22 okl jsm ptr
+Tue 14/10/25 08:14 coax 22 okl jsm ptr
+Tue 14/10/25 08:32 3x2.5 100 kat jsm ptr
+Tue 14/10/25 08:32 utp 44 okl jsm ptr
 Tue 14/10/25 15:31 ulje 78.2 0.33
 Wed 15/10/25 09:13 uv5rbaofend
-Wed 15/10/25 11:21 plcx4 2 ++ ing ptr
-Wed 15/10/25 11:21 plcx3 1 ++ ing ptr
-Wed 15/10/25 11:21 plcx4 2 prz ptr
-Wed 15/10/25 14:25 1x2.5x3 10 prz ptr
-Wed 15/10/25 14:26 fi20 10 prz ptr
-Wed 15/10/25 14:28 opt 20 prz ptr
-Wed 15/10/25 14:31 fi20 35 kat ptr
-Wed 15/10/25 14:31 fi32 7 kat ptr
-Wed 15/10/25 14:31 fi25 7 kat ptr
-Wed 15/10/25 14:31 ntb 7 kat ptr
-Wed 15/10/25 14:31 fi16 30 kat ptr
-Wed 15/10/25 14:31 4x0.75 45 kat ptr
+Wed 15/10/25 11:21 plcx4 2 ++ ing jsm ptr
+Wed 15/10/25 11:21 plcx3 1 ++ ing jsm ptr
+Wed 15/10/25 11:21 plcx4 2 prz jsm ptr
+Wed 15/10/25 14:25 1x2.5x3 10 prz jsm ptr
+Wed 15/10/25 14:26 fi20 10 prz jsm ptr
+Wed 15/10/25 14:28 opt 20 prz jsm ptr
+Wed 15/10/25 14:31 fi20 35 kat jsm ptr
+Wed 15/10/25 14:31 fi32 7 kat jsm ptr
+Wed 15/10/25 14:31 fi25 7 kat jsm ptr
+Wed 15/10/25 14:31 ntb 7 kat jsm ptr
+Wed 15/10/25 14:31 fi16 30 kat jsm ptr
+Wed 15/10/25 14:31 4x0.75 45 kat jsm ptr
 Thu 16/10/25 15:36 ulje 100.6 min
-Fri 17/10/25 09:44 3x2.5 70 kat ptr
-Fri 17/10/25 09:44 3x1.5 89 kat ptr
-Fri 17/10/25 09:44 3x1.5 100 -- ptr kmb
+Fri 17/10/25 09:44 3x2.5 70 kat jsm ptr
+Fri 17/10/25 09:44 3x1.5 89 kat jsm ptr
+Fri 17/10/25 09:44 3x1.5 100 -- jsm ptr kmb
 Fri 17/10/25 09:44 plcx4 1 ++ antlsc lcm sbk
-Fri 17/10/25 09:52 plcx3 1 kat ptr
+Fri 17/10/25 09:52 plcx3 1 kat jsm ptr
 Mon 20/10/25 09:08 kut 4 ++ ing lcm sbk
 Mon 20/10/25 09:52 utp 7 s0kat rnt
 Mon 20/10/25 11:38 3x1.5 4 s0kat rnt
@@ -1156,10 +1156,10 @@ Wed 13/05/26 13:55 pf10 29 ++ bck bck2
 Wed 13/05/26 13:55 pf10 38 ++ bck bck2
 Wed 13/05/26 13:55 coax 200 ++ bck bck2
 Wed 13/05/26 14:29 pf10 100 ++ bck bck2
-Fri 15/05/26 08:32 fi20 15 okl ptr
-Fri 15/05/26 08:32 ntb50 15 okl ptr
-Fri 15/05/26 08:32 fi25 30 okl ptr
-Fri 15/05/26 08:34 5x10 20 okl ptr
+Fri 15/05/26 08:32 fi20 15 okl jsm ptr
+Fri 15/05/26 08:32 ntb50 15 okl jsm ptr
+Fri 15/05/26 08:32 fi25 30 okl jsm ptr
+Fri 15/05/26 08:34 5x10 20 okl jsm ptr
 Fri 15/05/26 15:38 ulje 160 0
 Tue 19/05/26 08:41 pf10 2 okl babvrs
 Tue 19/05/26 08:43 grbz 10 okl babvrs
