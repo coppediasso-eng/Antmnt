@@ -1,6 +1,7 @@
 kazeta brother, 
 svrdla za zeljezo set iz peveca, 
-obujmice 7-8, 
 bombice plina, 
-
-
+pur pjena, 
+vezice, 
+vide 2.5, 
+vrice bile, 
