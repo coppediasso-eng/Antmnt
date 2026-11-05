@@ -1,7 +1,6 @@
 vezice, \
 vide 2.5, \
-vrice bile, \
-kabeli,  
-cijevi, 
-
+vide 3.5, \
+cijevi, \
+pur pjena, \
 
