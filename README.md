@@ -1,4 +1,4 @@
-5x1.5, \\
-vezice, \\
-gips, \\
+5x1.5, \
+vezice, \
+gips, \
 
